@@ -9,3 +9,4 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 | Project Link | Tools | Description |
 | --- | --- | --- |
 | [Atari Pong with Reinforcment Learning](https://github.com/sdavibl/Rede-Neural-Atari) | Artificial Intelligence, Numpy, Pandas | A Small project which i developed a Artificial Intelligence that can play Pong (1972) and outmatch the CPU |
+| [CartPole with Reinforcement Learning](https://github.com/sdavibl/Reinforcement-Learning-CartPole/tree/main) | Artificial Intelligence, Numpy, Pandas, PyTorch | A Small project which i developed a Artificial Intelligence to play a basic 2D Game called CartPole |
