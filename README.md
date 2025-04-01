@@ -22,6 +22,7 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 | Project Link | Tools | Description |
 | --- | --- | --- |
 | [Predicting PETR4 with LSTM Neural Network](https://github.com/sdavibl/PETR4-and-LSTM) | CNN, Python, Matplotlib, TensorFlow, Neural Network, LSTM | In this project, i create a Neural Network with LSTM using Tensorflow to predict the stock value of PETR4. |
+| [Women's E-Commerce Clothing Reviews with NLP, Spacy and LinearSVC](https://github.com/sdavibl/Women-s-E-Commerce-NLP) | Python, NLP, Sklearn, Machine Learning | In this project, I built a LinearSVC model using NLP to classify reviews of women's clothing. The model predicts whether a customer recommends the product based on their comment, analyzing the text to capture relevant patterns and tendencies in the feedback. |
 
 # 📊 Data Visualization
 | Project Link | Tools | Description |
