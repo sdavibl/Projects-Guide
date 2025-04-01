@@ -15,6 +15,7 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 | [Fingers Counting with Machine Learning and CNN](https://github.com/sdavibl/Reconhecimento-M-o-CNN) | CNN, Python, Matplotlib, Computer Vision, TensorFlow, Neural Network | A Small Project which i developed a Neural Network that can count how many fingers are in a hand image |
 | [EfficientNetB7 on Animals-10](https://github.com/sdavibl/EfficientNetB7-on-Animals10) | CNN, Python, Matplotlib, Computer Vision, TensorFlow, Neural Network | This project utilizes EfficientNetB7, a high-performance Convolutional Neural Network (CNN), to classify animals in images with an impressive 95% accuracy |
 | [Building a Neural Network from Scratch with PyTorch](https://github.com/sdavibl/Pytorch-MNIST) | CNN, Python, Matplotlib, Computer Vision, PyTorch, Neural Network | In this project, I built a neural network with PyTorch to recognize handwritten digits from the MNIST dataset. |
+| [Vegetal Recognition with CNN and Tensorflow](https://github.com/sdavibl/Vegetable-Recognition) | CNN, Python, Matplotlib, Computer Vision, TensorFlow, Neural Network |In this project, I built a Convolutional Neural Network (CNN) from scratch to classify vegetables in images, achieving 94% accuracy. |
 
 
 # 💻 Machine Learning
