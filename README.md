@@ -12,6 +12,7 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 | [Atari Pong with Reinforcment Learning](https://github.com/sdavibl/Rede-Neural-Atari) | Artificial Intelligence, Numpy, Pandas | A Small project which i developed a Artificial Intelligence that can play Pong (1972) and outmatch the CPU |
 | [CartPole with Reinforcement Learning](https://github.com/sdavibl/Reinforcement-Learning-CartPole/tree/main) | Artificial Intelligence, Numpy, Pandas, PyTorch | A Small project which i developed a Artificial Intelligence to play a basic 2D Game called CartPole |
 | [Fingers Counting with Machine Learning and CNN](https://github.com/sdavibl/Reconhecimento-M-o-CNN) | CNN, Python, Matplotlib, Computer Vision, TensorFlow, Neural Network | A Small Project which i developed a Neural Network that can count how many fingers are in a hand image |
+| [EfficientNetB7 on Animals-10](https://github.com/sdavibl/EfficientNetB7-on-Animals10) | CNN, Python, Matplotlib, Computer Vision, TensorFlow, Neural Network | This project utilizes EfficientNetB7, a high-performance Convolutional Neural Network (CNN), to classify animals in images with an impressive 95% accuracy |
 
 
 # 💻 Machine Learning
