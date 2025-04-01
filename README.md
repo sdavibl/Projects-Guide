@@ -4,6 +4,7 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 # 🗺️ Table of Contents
 * [Artificial Intelligence](https://github.com/sdavibl/Projects-Guide/edit/main/README.md#artificial-intelligence)
 * [Machine Learning](https://github.com/sdavibl/Projects-Guide/edit/main/README.md#-machine-learning)
+* [Data Visualization](https://github.com/sdavibl/Projects-Guide/edit/main/README.md#-data-visualization)
 
 # 🤖 Artificial Intelligence
 
@@ -19,4 +20,10 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 # 💻 Machine Learning
 | Project Link | Tools | Description |
 | --- | --- | --- |
+
+# 📊 Data Visualization
+| Project Link | Tools | Description |
+| --- | --- | --- |
+| [Geospatial Analysis of Noroeste Fluminense with R](https://github.com/sdavibl/Noroeste-Fluminense-com-R/tree/main) | R, Geospatial Analysis, GGplot | This project uses R to analyze and visualize economic and social indicators of the Noroeste Fluminense region. The project demonstrates data manipulation, visualization, and geospatial analysis in R. |
+
 
