@@ -21,6 +21,7 @@ Welcome to my portfolio 👋 Here I have some examples of projects i made using 
 # 💻 Machine Learning
 | Project Link | Tools | Description |
 | --- | --- | --- |
+| [Predicting PETR4 with LSTM Neural Network](https://github.com/sdavibl/PETR4-and-LSTM) | CNN, Python, Matplotlib, TensorFlow, Neural Network, LSTM | In this project, i create a Neural Network with LSTM using Tensorflow to predict the stock value of PETR4. |
 
 # 📊 Data Visualization
 | Project Link | Tools | Description |
